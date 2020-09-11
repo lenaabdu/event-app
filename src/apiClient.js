@@ -1,5 +1,5 @@
 import axios from 'axios'
-//const url = 'https://event-ap.herokuapp.com/'
+const url = 'https://event-ap.herokuapp.com/'
 
 const url = 'http://localhost:3001/'
 
@@ -9,7 +9,16 @@ export class ApiClient {
         this.logoutHandler = logoutHandler
     }
 
-
+    async login(username, password) {
+        return await axios({
+            method: 'post',
+            url: `${url}auth`,
+            data: {
+                username,
+                password
+            }
+        });
+    }
 
     autheticatedCall(method, url, data) {
         return axios({
