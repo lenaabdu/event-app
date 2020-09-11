@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/event-app/static/css/main.bbccfe60.chunk.css",
+    "main.js": "/event-app/static/js/main.348aeba3.chunk.js",
+    "main.js.map": "/event-app/static/js/main.348aeba3.chunk.js.map",
+    "runtime-main.js": "/event-app/static/js/runtime-main.176b038f.js",
+    "runtime-main.js.map": "/event-app/static/js/runtime-main.176b038f.js.map",
+    "static/css/2.d9ad5f5c.chunk.css": "/event-app/static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.77b68cb5.chunk.js": "/event-app/static/js/2.77b68cb5.chunk.js",
+    "static/js/2.77b68cb5.chunk.js.map": "/event-app/static/js/2.77b68cb5.chunk.js.map",
+    "index.html": "/event-app/index.html",
+    "precache-manifest.3891941175cbf5cb563684cb4200c806.js": "/event-app/precache-manifest.3891941175cbf5cb563684cb4200c806.js",
+    "service-worker.js": "/event-app/service-worker.js",
+    "static/css/2.d9ad5f5c.chunk.css.map": "/event-app/static/css/2.d9ad5f5c.chunk.css.map",
+    "static/css/main.bbccfe60.chunk.css.map": "/event-app/static/css/main.bbccfe60.chunk.css.map",
+    "static/js/2.77b68cb5.chunk.js.LICENSE.txt": "/event-app/static/js/2.77b68cb5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.176b038f.js",
+    "static/css/2.d9ad5f5c.chunk.css",
+    "static/js/2.77b68cb5.chunk.js",
+    "static/css/main.bbccfe60.chunk.css",
+    "static/js/main.348aeba3.chunk.js"
+  ]
+}
