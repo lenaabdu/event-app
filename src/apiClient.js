@@ -9,16 +9,7 @@ export class ApiClient {
         this.logoutHandler = logoutHandler
     }
 
-    async login(username, password) {
-        return await axios({
-            method: 'post',
-            url: `${url}auth`,
-            data: {
-                username,
-                password
-            }
-        });
-    }
+
 
     autheticatedCall(method, url, data) {
         return axios({
